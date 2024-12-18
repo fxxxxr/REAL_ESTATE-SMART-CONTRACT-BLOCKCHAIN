@@ -356,3 +356,10 @@ header {
     display: none;
   }
 }
+
+#image_readme{
+  background-image: url(assets/houses.png);
+  background-position: center;
+  background-size: cover;
+  
+}

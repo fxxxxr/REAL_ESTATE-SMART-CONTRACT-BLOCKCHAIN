@@ -8,4 +8,5 @@
 - [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
 
-<img src="src/assets/zillow_img.jpg" alt="Sample Image" width="100%" height="400">
+<img src="src/assets/zillow_img.jpg" alt="Sample Image" width="100%" height="350">
+<img src="src/assets/purchase.jpg" alt="Sample Image" width="100%" height="350">

@@ -98,7 +98,7 @@ nav {
 /* -- HEADER -- */
 
 header {
-  background-image: url("./assets/houses.png");
+  background-image: url("./assets/newbc.jpeg");
   background-position: center;
   background-size: cover;
   min-height: 40vh;
@@ -110,7 +110,7 @@ header {
   position: absolute;
   top: 25%;
   left: 50%;
-  bottom:30% ;
+  bottom:50% ;
   transform: translate(-50%, -50%);
 
   color: var(--clr-white);

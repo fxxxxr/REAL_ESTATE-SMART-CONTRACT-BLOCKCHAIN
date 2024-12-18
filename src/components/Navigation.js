@@ -27,7 +27,7 @@ const Navigation = ({ account, setAccount }) => {
 
       <div className="nav__brand">
         <img src={logo} alt="logo" />
-        <h1>Millow</h1>
+        <h1>Zillow</h1>
       </div>
       {account ?
       (

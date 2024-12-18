@@ -8,4 +8,4 @@
 - [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
 - [React.js](https://reactjs.org/) (Frontend Framework)
 
-<img class = "image_readme"/>
+<img className = "image_readme"/>

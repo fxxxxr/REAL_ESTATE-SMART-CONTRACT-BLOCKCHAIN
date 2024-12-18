@@ -357,9 +357,9 @@ header {
   }
 }
 
-#image_readme{
+.image_readme{
   background-image: url(assets/houses.png);
   background-position: center;
   background-size: cover;
-  
+  min-height: 40px;
 }
